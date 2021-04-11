@@ -1,0 +1,1 @@
+web: env DATABASE_URL=$JDBC_DATABASE_URL env JAVA_OPTS="-Dspring.profiles.active=prod" target/testedeconhecimento-0.0.1-SNAPSHOT.jar
