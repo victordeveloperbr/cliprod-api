@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar --port $PORT target/app.jar
+web: java $JAVA_OPTS -jar --port $PORT target/testedeconhecimento-0.0.1-SNAPSHOT.jar
