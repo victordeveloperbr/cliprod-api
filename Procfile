@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS --port $PORT target/app.jar
+web: java $JAVA_OPTS -jar --port $PORT target/app.jar
